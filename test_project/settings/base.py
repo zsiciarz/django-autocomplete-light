@@ -71,6 +71,7 @@ INSTALLED_APPS = [
     'secure_data',
     'linked_data',
     'rename_forward',
+    'forward_different_fields',
 
     'gm2m',
     'select2_gm2m',
